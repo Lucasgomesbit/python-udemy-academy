@@ -1,0 +1,9 @@
+adicao = 10 + 10 
+subtracao = 10 - 5
+multiplicacao = 10 * 10
+divisao = 10 / 2.2 # Sempre irá retornar float 
+divisao_inteira = 10 // 2.2 # Corta as casa decimais
+exponenciacao = 2 ** 10 # Número elevado
+modulo = 55 % 22 # Resto da divisão 
+
+print(adicao)
